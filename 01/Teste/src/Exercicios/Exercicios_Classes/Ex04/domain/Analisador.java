@@ -10,6 +10,5 @@ public class Analisador {
         values[0] = value1;
         values[1] = value2;
         values[2] = value3;
-
     }
 }
